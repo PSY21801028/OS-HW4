@@ -9,11 +9,11 @@ You only need to compile findeq.c file.
 
 <pre><code>$ gcc findeq.c -o findeq -lpthread
 </code></pre>
-After compiling with the findeq.c file, you can run by three options.  
+After compiling with the findeq.c file, you can run by three options and input directory(relative path and absolute path). 
 Thread : -t=NUM (1-64)  
 Filtering size: -m=NUM (byte)  
-Create output file : -o=FILE (not necessary)  
-<pre><code>$ ./findeq -t=[1-64] -m=[byte] -o=FILE [DIR]
+Create output file : -o=FILE (If you need standard output)  
+<pre><code>$ ./findeq -t=1 -m=1024 -o=FILE [DIR]
 </code></pre>
 ## Usage
 ### test1

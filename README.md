@@ -38,8 +38,7 @@ $ ./test2
 ```
 
 ## Contact
-If you have any questions about cimin then contact us.
-21801028 Park Soonyong, parksy3978@handong.ac.kr
-21900780 Jeongwon Ha, jeongwon19@handong.ac.kr
-22100237 Kim HyungJin, 22100237@handong.ac.kr
-
+If you have any questions about findeq then contact us.  
+21801028 Park Soonyong, parksy3978@handong.ac.kr  
+21900780 Jeongwon Ha, jeongwon19@handong.ac.kr  
+22100237 Kim HyungJin, 22100237@handong.ac.kr  

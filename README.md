@@ -6,9 +6,9 @@ findeq: It is a program that checks all the sub-directory files in the input dir
 
 ## Build
 You only need to compile findeq.c file. After compiling with the findeq.c file, you can run three options by default.
-Thread : -t=NUM (1-64)
-Filtering size: -m=NUM (byte)
-Create output file : -o=FILE (not necessary)
+Thread : -t=NUM (1-64)  
+Filtering size: -m=NUM (byte)  
+Create output file : -o=FILE (not necessary)  
 
 <pre><code>$ gcc findeq.c -o findeq -lpthread
 </code></pre>

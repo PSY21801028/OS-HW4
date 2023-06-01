@@ -5,7 +5,8 @@ HW4_findeq: multithreaded search of files with equal data
 findeq: It is a program that checks all the sub-directory files in the input directory for duplicate files using multi-threads. It consists of only the POSIX standard library in C.
 
 ## Build
-You only need to compile findeq.c file.  After compiling with the findeq.c file, you can run three options by default.  
+You only need to compile findeq.c file.  
+After compiling with the findeq.c file, you can run three options by default.  
 Thread : -t=NUM (1-64)  
 Filtering size: -m=NUM (byte)  
 Create output file : -o=FILE (not necessary)  

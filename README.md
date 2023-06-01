@@ -9,7 +9,7 @@ You only need to compile findeq.c file.
 
 <pre><code>$ gcc findeq.c -o findeq -lpthread
 </code></pre>
-After compiling with the findeq.c file, you can run three options by option.  
+After compiling with the findeq.c file, you can run by three options.  
 Thread : -t=NUM (1-64)  
 Filtering size: -m=NUM (byte)  
 Create output file : -o=FILE (not necessary)  

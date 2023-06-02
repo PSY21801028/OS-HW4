@@ -27,7 +27,7 @@ $ ./findeq -t=1 -m=1024 -o=FILE ./test
 ```bash
 $ ls
 findeq  findeq.c  test         
-$ ./findeq -t=4 -m=2048 -o=FILE /mnt/c/Users/psy/Desktop/HW4/test
+$ ./findeq -t=4 -m=2048 /mnt/c/Users/psy/Desktop/HW4/test
 ...
 ```
 ### test3

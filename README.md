@@ -27,14 +27,14 @@ $ ./findeq -t=1 -m=1024 -o=FILE ./test
 ```bash
 $ ls
 findeq  findeq.c  test         
-$ ./findeq -t=4 -m=4096 -o=FILE /home/s21801028/OS+2023/OS-HW4/test
+$ ./findeq -t=4 -m=2048 -o=FILE /mnt/c/Users/psy/Desktop/HW4/test
 ...
 ```
 ### test3
 ```bash
 $ ls
 findeq  findeq.c  test         
-$ ./findeq -t=16 -m=8192 -o=FILE ./test
+$ ./findeq -t=16 -m=2048 -o=FILE ./test
 ...
 ```
 
